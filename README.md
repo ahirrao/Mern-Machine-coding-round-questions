@@ -1,6 +1,4 @@
-You’re targeting backend roles (Node + Express + MongoDB), so here are the most frequently asked MERN backend machine test tasks — based on real hiring patterns for freshers (0–1 year), especially in Pune startup & service companies.
-
-I’ll focus only on the important 20% that covers 80% of tests.
+You’re targeting backend roles (Node + Express + MongoDB), so here are the most frequently asked MERN backend machine test tasks — based on real hiring patterns for freshers (0–1 I’ll focus only on the important 20% that covers 80% of tests.
 
 🔥 1. Authentication System (VERY COMMON – 90% chance)
 Task:
