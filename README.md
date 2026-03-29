@@ -8,6 +8,7 @@ Build REST APIs for:
 
 Register user
 
+
 Login user
 
 JWT authentication
